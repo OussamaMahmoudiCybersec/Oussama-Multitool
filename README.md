@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/6c4f4a74-e253-4c76-be4c-157966eafc16
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/Oussama-Multitool.git
+   git clone https://github.com/OussamaMahmoudiCybersec/Oussama-Multitool.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -57,14 +57,6 @@ https://github.com/user-attachments/assets/6c4f4a74-e253-4c76-be4c-157966eafc16
    - **4: Ping Sweep**: Provide an IP range to check connectivity.
    - **5: Password Generator**: Generate random passwords with customizable length and character sets.
    - **6: Password Cracker**: Input a hashed password and a list of possible passwords to attempt a crack.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
